@@ -40,3 +40,8 @@
 
 ## Test Results:
 ![](images/9.png)
+
+### I hope this article was helpful for you to get the basic idea and the workflow of Supervisely :)
+
+
+### Thank You for your precious time.
